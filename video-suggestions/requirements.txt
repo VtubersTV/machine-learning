@@ -1,0 +1,4 @@
+python-dotenv
+pymongo 
+scikit-learn 
+flask

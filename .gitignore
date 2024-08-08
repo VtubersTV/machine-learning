@@ -1,0 +1,6 @@
+# Block any file that ends with .log
+**/*.log
+# Block any file that ends with .env
+**/.env
+# Block any folder that ends with .venv
+**/.venv
